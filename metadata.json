@@ -1,0 +1,8 @@
+{
+  "name": "Fit Hai Indian",
+  "description": "India's premier AI-powered fitness companion. Personalized workouts, desi meal plans, and real-time coaching for the modern Indian lifestyle.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
